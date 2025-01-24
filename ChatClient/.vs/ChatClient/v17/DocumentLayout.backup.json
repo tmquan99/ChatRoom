@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\C\u002B\u002B\\ChatClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79136AB3-0541-48C6-8AE6-7EFA5A61E691}|ChatClient.vcxproj|D:\\projects\\C\u002B\u002B\\ChatClient\\ChatClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79136AB3-0541-48C6-8AE6-7EFA5A61E691}|ChatClient.vcxproj|solutionrelative:ChatClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClient.cpp",
+              "DocumentMoniker": "D:\\projects\\C\u002B\u002B\\ChatClient\\ChatClient.cpp",
+              "RelativeDocumentMoniker": "ChatClient.cpp",
+              "ToolTip": "D:\\projects\\C\u002B\u002B\\ChatClient\\ChatClient.cpp",
+              "RelativeToolTip": "ChatClient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T08:00:59.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
